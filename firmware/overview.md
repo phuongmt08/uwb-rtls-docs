@@ -1,0 +1,3 @@
+# Firmware Architecture
+
+*Documentation pending.*
